@@ -1,0 +1,80 @@
+Date & Time : 07/05/2021	19:55:12
+User : Kushagra
+Token No. : 20
+Counter No. : 1
+Items : Cornflour, Potato, Mango, Rice, Apple, Orange, Wheat, Cornflour, Onion, Tomato
+Quantity : 23
+G.Total : 2556.0
+================================================
+Date & Time : 07/05/2021	20:00:09
+User : Kushagra
+Token No. : 37
+Counter No. : 2
+Items : Apple
+Quantity : 2
+G.Total : 288.0
+================================================
+Date & Time : 08/05/2021	15:23:28
+User : Komal
+Token No. : 19
+Counter No. : 3
+Items : Apple
+Quantity : 5
+G.Total : 720.0
+================================================
+Date & Time : 08/05/2021	18:17:42
+User : Kushagra
+Token No. : 96
+Counter No. : 4
+Items : Apple
+Quantity : 5
+G.Total : 720.0
+================================================
+Date & Time : 08/05/2021	18:22:24
+User : Kushagra
+Token No. : 27
+Counter No. : 4
+Items : Apple
+Quantity : 4
+G.Total : 576.0
+================================================
+Date & Time : 14/05/2021	17:27:49
+User : Kushagra
+Token No. : 69
+Counter No. : 8
+Items : Mango, Rice
+Quantity : 15
+G.Total : 1665.0
+================================================
+Date & Time : 20/05/2021	09:40:17
+User : Kushagra
+Token No. : 1
+Counter No. : 6
+Items : Apple, Rice, Potato
+Quantity : 10
+G.Total : 742.5
+================================================
+Date & Time : 26/05/2021	15:20:20
+User : Kushagra
+Token No. : 8
+Counter No. : 2
+Items : Rice, Mango
+Quantity : 4
+G.Total : 468.0
+================================================
+Date & Time : 27/05/2021	12:55:02
+User : Kartik
+Token No. : 48
+Counter No. : 5
+Items : Mango, Onion, Potato
+Quantity : 9
+G.Total : 360.0
+================================================
+Date & Time : 13/06/2021	22:19:52
+User : Kushagra
+Token No. : 2
+Counter No. : 1
+Items : Apple, Rice
+Quantity : 8
+G.Total : 1017.0
+================================================
